@@ -1,0 +1,32 @@
+{
+  "name": "ayurvedapp",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [
+    "ayurveda",
+    "panchkarma"
+  ],
+  "license": "ISC",
+  "author": "Rishabh Pandey",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon src/index.js"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10",
+    "prettier": "^3.6.2"
+  },
+  "dependencies": {
+    "bcrypt": "^6.0.0",
+    "cloudinary": "^2.7.0",
+    "cookie-parser": "^1.4.7",
+    "cors": "^2.8.5",
+    "dotenv": "^17.2.2",
+    "express": "^5.1.0",
+    "firebase-admin": "^13.5.0",
+    "mongoose": "^8.18.1",
+    "mongoose-aggregate-paginate-v2": "^1.1.4",
+    "multer": "^2.0.2"
+  }
+}
