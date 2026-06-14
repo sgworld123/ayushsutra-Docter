@@ -306,8 +306,8 @@ Track ongoing therapies and treatment plans.
 * Patient mobile application
 
 ---
-## 🎉 Star = Happy Dance
+## ⭐ Glad You're Here
 
-Every star makes this little project do a happy dance. Thanks for stopping by — I appreciate you!
+Hope you found something useful in here! Drop a star if you did — it keeps this project (and me) motivated 🐾
 
-![dance cat](https://media.giphy.com/media/gXXFrjHFJIMoqKr8UT/giphy.gif)
+![happy cat](https://media.giphy.com/media/A0Zt7yuDULiy4ofmVD/giphy.gif)
